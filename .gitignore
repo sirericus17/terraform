@@ -1,2 +1,3 @@
-.gitignore
+~/terraform/test2/tfplan
+~/terraform/.gitignore
 jenkins/tfplan
